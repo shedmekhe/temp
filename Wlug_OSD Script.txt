@@ -1,0 +1,47 @@
+Hello everyone before moving to advance commands , I'll quickly revise which concepts have been covered earlier,
+so u guys have seen
+1. What is Git?
+2. What are the basic git commands?
+3. What is github ?
+4. What is branching ?
+5. What is merging ?
+
+So I hope everything is clear till now !!
+
+Now moving forward 
+will see our first advance command that is git rebase 
+What is git rebase ?
+Used to integrate changes from one branch to another,
+So why is there need to use rebase as same work as been done by merge ?
+So the reason is in git commit history. What is it will look shortly .
+
+So have a look over here, u guys can also demonstrate this ....
+Go to chrome type learngitbranching ....
+
+So can u guys really see any difference in rebase and merge ?
+So the difference actually arises in commit history in which rebase actually gives linear commit history
+whereas merge gives set of commits to be grouped.
+
+So u saw the difference, that in commit history u see linear commit history using rebase whereas grouped commits using merge
+
+Now will see the next command which is git revert in this command a commited work can be discarded or to be term specific revert
+Demo ///
+
+Now will see the difference between git revert and reset 
+Demo ...
+
+Now coming to our third command that is git blame 
+So this command is used to examine the contents of file line by line how this works will see shortly.
+
+Now the next command that is git diff 
+Used to show changes between working directory and stagging area files
+Demo///
+
+Now the next command that is git clean
+Used to clean/delete untracked files
+But what files can be termed as untracked files ?
+So the files which are not added or are in stagging area are termed as untracked files.
+Demo ///
+
+
+ 
